@@ -1,4 +1,4 @@
-# DIGITAL-QUEUE-MANAGEMENT-SYSTEM-
+## DIGITAL-QUEUE-MANAGEMENT-SYSTEM-
 
 ## Description
 This project is a Digital Queue Management System developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It helps users join a queue digitally and track their position instead of waiting in physical lines.
